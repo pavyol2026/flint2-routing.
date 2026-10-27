@@ -24,7 +24,7 @@ jobs:
         run: |
           set -euo pipefail
           URL="https://raw.githubusercontent.com/kyoresuas/ru-direct/release/ru-standard.domains.txt"
-          IP_URL = "https://raw.githubusercontent.com/kyoresuas/ru-direct/release/ru-full.ipv4.txt"
+          IP_URL="https://raw.githubusercontent.com/kyoresuas/ru-direct/release/ru-full.ipv4.txt"
           curl -fLsS --retry 3 "$URL" -o ru-domains.txt
           curl -fLss --retry 3 "$IP_URL" -o ru-ipv4.txt
           if [ ! -s ru-domains.txt ]; then
