@@ -1539,6 +1539,7 @@
 185.209.24.0/21
 185.209.240.0/24
 185.209.44.0/22
+185.209.85.222/32
 185.21.156.0/22
 185.21.49.0/24
 185.21.64.0/22
@@ -4937,7 +4938,6 @@
 45.140.76.0/22
 45.140.80.0/22
 45.140.92.0/22
-45.141.102.99/32
 45.141.208.0/22
 45.141.219.0/24
 45.141.76.0/22
@@ -8747,7 +8747,9 @@ api-courier.ozon.ru
 api-extranet.ozon.ru
 api-fresh-courier.ozon.ru
 api-invest-gw.t-bank-app.ru
+api-m.goldapple.ru
 api-maps.yandex.ru
+api-n.goldapple.ru
 api-ote-mobile.fin.cian.ru
 api-payments-p.t-bank-app.ru
 api-public.fin.cian.ru
@@ -8763,6 +8765,7 @@ api.a.mts.ru
 api.acquisition-gwe.plus.yandex.net
 api.aeroflot.ru
 api.aliexpress.ru
+api.apteka.ru
 api.auth.2gis.com
 api.avito.ru
 api.beeline.ru
@@ -8771,10 +8774,13 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.cdek.ru
 api.cian.ru
+api.detmir.ru
 api.divpro.yandex.ru
 api.dns-shop.ru
+api.eapteka.ru
 api.events.plus.yandex.net
 api.finance.ozon.ru
+api.goldapple.ru
 api.halvacard.ru
 api.hh.ru
 api.ivi.ru
@@ -8839,6 +8845,8 @@ app-train-gateway.tutu.ru
 app.avito.ru
 app.k.avito.ru
 app.lavka.yandex.ru
+app.ostrovok.ru
+app.sportmaster.ru
 app.tanker.yandex.net
 app.uaas.yandex.ru
 app.uipltf.mts.ru
@@ -8849,7 +8857,9 @@ apps-config.wildberries.ru
 apps.rustore.ru
 apps.t2.ru
 apteka.magnit.ru
+apteka.ru
 apteki.yandex.ru
+archive.apteka.ru
 as.t-bank-app.ru
 ask.ivi.ru
 assets.habr.com
@@ -8992,6 +9002,7 @@ bitrix.info
 bitrix24.ru
 blogs.yandex.ru
 bnpl-gateway.wildberries.ru
+bonus.detmir.ru
 bonuses.api.2gis.ru
 bot.gosuslugi.ru
 brands-prod.cdn-tinkoff.ru
@@ -9004,6 +9015,7 @@ browser.translate.yandex.net
 browser.yandex.net
 browser.yandex.ru
 bspb.ru
+burgerkingrus.ru
 bus.tutu.ru
 business.market.yandex.ru
 business.taxi.yandex.ru
@@ -9022,6 +9034,7 @@ car-rent-api.tutu.ru
 caravan.k.avito.ru
 card.wb.ru
 cards.edadeal.yandex.ru
+cards.goldapple.ru
 care.yandex.ru
 career.habr.com
 career.hh.ru
@@ -9040,8 +9053,10 @@ cdn-p.cian.site
 cdn-sport.kp.yandex.net
 cdn.cian.site
 cdn.dzen.ru
+cdn.eapteka.ru
 cdn.sberbank.ru
 cdn.sberdevices.ru
+cdn.sportmaster.ru
 cdn.t-bank-app.ru
 cdn.t-static.ru
 cdn.tbank.ru
@@ -9147,6 +9162,7 @@ delivery.api.2gis.com
 delivery.api.2gis.ru
 design-system-image.prod.ya.magnit.ru
 design.ozon.ru
+detmir.ru
 dev.rustore.ru
 devices.ssl.mts.ru
 dialer.mts.ru
@@ -9170,6 +9186,7 @@ docs.k.avito.ru
 docs.ozon.ru
 docs.yandex.ru
 docviewer.yandex.ru
+dodopizza.ru
 dom.gosuslugi.ru
 dom.ssl.mts.ru
 domofon.mts.ru
@@ -9186,6 +9203,7 @@ ducip.megafon.ru
 duma.gov.ru
 dzen.ru
 e-burg.mts.ru
+eapteka.ru
 eats-superapp-authproxy.eda.yandex.net
 ebs.ru
 eco-favorites-mobile-gw.tutu.ru
@@ -9282,6 +9300,7 @@ geo1.online.sberbank.ru
 geocenter.mts.ru
 geocode-maps.yandex.ru
 gibdd.ru
+gift.detmir.ru
 gigaback.t2.ru
 gigs.api.2gis.ru
 git.yoomoney.ru
@@ -9295,6 +9314,7 @@ go.max.ru
 go.skillbox.ru
 go.yandex
 gold.api.megafon.ru
+goldapple.ru
 golden-retriever.tutu.ru
 goods-backend.api.2gis.ru
 goskey.gosuslugi.ru
@@ -9311,6 +9331,7 @@ graphql.kinopoisk.ru
 grey.api.megafon.ru
 grocery-authproxy.lavka.yandex.net
 groot.ivi.ru
+growthbook-api.detmir.ru
 gu-st.ru
 guide.api.2gis.com
 gw-cmdm.x5.ru
@@ -9382,6 +9403,7 @@ id.wb.ru
 id.x5.ru
 id.ya.ru
 id.yandex.ru
+identity.goldapple.ru
 idgw.mobileid.mts.ru
 idphydra-int.beeline.ru
 idphydra.beeline.ru
@@ -9519,6 +9541,7 @@ m.news.yandex.ru
 m.ok.ru
 m.pogoda.yandex.ru
 m.pokupki.market.yandex.ru
+m.sportmaster.ru
 m.support.mts.ru
 m.taxi.yandex.ru
 m.video.yandex.ru
@@ -9528,6 +9551,7 @@ m.vkvideo.ru
 m.vseinstrumenti.ru
 m.zen.yandex.ru
 m2mgis.mts.ru
+ma-prod.cdn.vkusnoitochka.ru
 ma.kinopoisk.ru
 mads-serve.magnit.ru
 mads-track.magnit.ru
@@ -9543,6 +9567,8 @@ man.proxy.mob.maps.yandex.net
 map-settings.api.2gis.ru
 map.gosuslugi.ru
 mapgl.2gis.com
+mapi.dodois.io
+mapi.dodois.ru
 mapi.vs.market.yandex.net
 mapi.vseinstrumenti.ru
 mapp-appl.mvideo.ru
@@ -9590,6 +9616,7 @@ mob-manager-aws.mob.taxi.yandex.net
 mob-manager.taxi.yandex.net
 mob-t.beeline.ru
 mob.cdn.gpb.ru
+mobile-api.vkusnoitochka.ru
 mobile-bank-cdn-fb.tinkoff.ru
 mobile-bank.cdn-tinkoff.ru
 mobile-core-prod.cdn-tinkoff.ru
@@ -9618,7 +9645,9 @@ mos.ru
 moscow.megafon.ru
 moskva.beeline.ru
 mosreg.ru
+mota.ostrovok.ru
 moy.magnit.ru
+mp4x-api.sportmaster.ru
 mpsbol.ant.sberbank.ru
 msk.t2.ru
 mts-service.mts.ru
@@ -9656,6 +9685,8 @@ no-minuses.t2.ru
 node1.online.sberbank.ru
 node2.online.sberbank.ru
 node3.online.sberbank.ru
+notifier.burgerkingrus.ru
+notifier.katren.ru
 novikom.ru
 npd.nalog.ru
 nsdk-s02.uss.2gis.com
@@ -9707,6 +9738,10 @@ open.ru
 operations.t-bank-app.ru
 oplata.gosuslugi.ru
 oplata.t2.ru
+orderapp-app-static.burgerkingrus.ru
+orderapp-static.burgerkingrus.ru
+orderapp.burgerkingrus.ru
+ostrovok.ru
 otpbank.ru
 otpravka.pochta.ru
 ott-kp.yandex.ru
@@ -9724,6 +9759,7 @@ passport.dzen.ru
 passport.pochta.ru
 passport.yandex.ru
 pay-backapi.rustore.ru
+pay.dodois.io
 pay.gosuslugi.ru
 pay.mts.ru
 pay.ozon.ru
@@ -9738,6 +9774,7 @@ payment.gosuslugi.ru
 payment.mts.ru
 payments.2gis.ru
 payments.sberbank.ru
+payota.p.ostrovok.ru
 pc.mts.ru
 pci.finance.ozon.ru
 perekrestok-mobile.x5.ru
@@ -9935,6 +9972,7 @@ spb.vseinstrumenti.ru
 special.ivi.ru
 splitter.wb.ru
 sport-updates.okkoapi.tv
+sportmaster.ru
 spp.alfabank.ru
 sso-app5.vtb.ru
 sso-mb.vtb.ru
@@ -9987,6 +10025,7 @@ static.online.gpb.ru
 static.ozone.ru
 static.rustore.ru
 static.rutube.ru
+static.sportmaster.ru
 static.ssl.mts.ru
 static.tinkoff.ru
 static.uchi.ru
@@ -10087,6 +10126,7 @@ udms.kion.ru
 uniapi.ozon.travel
 unicredit.ru
 uniproxy.alice.yandex.net
+unleash.service.eapteka.ru
 unlim-roaming.t2.ru
 unsub.kion.ru
 upload.rustore.ru
@@ -10140,6 +10180,7 @@ vkuserlive.net
 vkuserphoto.ru
 vkuservideo.com
 vkuservideo.net
+vkusnoitochka.ru
 vkusvill.ru
 vkvideo.ru
 voicea2p.s3.t2.ru
@@ -10176,6 +10217,7 @@ wink.rt.ru
 wink.ru
 wireapp-api.ozon.ru
 ws.api.music.yandex.net
+ws.detmir.ru
 ws.okko.tv
 ws.okkopretv.ru
 ws.ozon.ru
@@ -10198,9 +10240,11 @@ www.cbr.ru
 www.cdek.ru
 www.centrinvest.ru
 www.cian.ru
+www.detmir.ru
 www.dns-shop.ru
 www.domrfbank.ru
 www.dzen.ru
+www.eapteka.ru
 www.eldorado.ru
 www.expobank.ru
 www.fin.cian.ru
@@ -10258,6 +10302,7 @@ www.skillbox.ru
 www.skillfactory.ru
 www.smpbank.ru
 www.sovcombank.ru
+www.sportmaster.ru
 www.start.ru
 www.t2.ru
 www.tbank.ru
