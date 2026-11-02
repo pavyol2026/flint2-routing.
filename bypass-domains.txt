@@ -9151,6 +9151,7 @@ dangerous-cameras.api.2gis.com
 data-checker.wildberries.ru
 data.nalog.ru
 datafeedback.api.2gis.ru
+daycamp.cc
 dbo-dengi.online
 dbo.online.gpb.ru
 dbo.sovcombank.ru
